@@ -1,2 +1,2 @@
-# andrewjourdan-ops
+# andrewjourdan
 Andrew Jourdan Style and Tech
