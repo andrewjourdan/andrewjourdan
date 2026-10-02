@@ -1,0 +1,15 @@
+# robots.txt for andrewjourdan.com
+# Allow all well-behaved crawlers to index the entire site
+
+User-agent: *
+Allow: /
+
+# Block common AI scrapers if you'd like (uncomment to enable)
+# User-agent: GPTBot
+# Disallow: /
+# User-agent: CCBot
+# Disallow: /
+# User-agent: ClaudeBot
+# Disallow: /
+
+Sitemap: https://andrewjourdan.com/sitemap.xml
