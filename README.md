@@ -1,2 +1,2 @@
 # andrewjourdan
-Andrew Jourdan Style and Tech
+AJ Style and Tech
