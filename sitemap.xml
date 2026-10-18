@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://andrewjourdan.com/</loc>
+    <lastmod>2026-10-18</lastmod>
+  </url>
+  <!--
+    Add this entry only after the About page is live at this exact URL
+    (a sitemap that lists a page returning 404 hurts more than it helps):
+  <url>
+    <loc>https://andrewjourdan.com/about/</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+  </url>
+  -->
+</urlset>

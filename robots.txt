@@ -1,0 +1,18 @@
+# robots.txt for andrewjourdan.com
+# Everything is open to all crawlers on purpose. Search engines and AI
+# assistants both need to read this site to connect the name "Andrew Jourdan"
+# to the right person.
+
+User-agent: *
+Allow: /
+
+# Optional: block AI training crawlers (uncomment to enable).
+# Blocking them can also remove you from AI assistant answers about you.
+# User-agent: GPTBot
+# Disallow: /
+# User-agent: CCBot
+# Disallow: /
+# User-agent: ClaudeBot
+# Disallow: /
+
+Sitemap: https://andrewjourdan.com/sitemap.xml
