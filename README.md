@@ -13,6 +13,18 @@ My focus includes consumer electronics, memory, storage, and imaging technology.
 - [LinkedIn — Andrew Nahmias](https://www.linkedin.com/in/andrewnahmias/)
 - [Instagram — @andrewjourdan](https://www.instagram.com/andrewjourdan/)
 
+## My GitHub websites
+
+| Domain | Repository |
+| --- | --- |
+| [andrewjourdan.com](https://andrewjourdan.com/) | [andrewjourdan](https://github.com/andrewjourdan/andrewjourdan) |
+| [cleopatrasball.com](https://cleopatrasball.com/) | [cleopatrasball-com](https://github.com/andrewjourdan/cleopatrasball-com) |
+| [cleopatrasball.org](https://cleopatrasball.org/) | [cleopatrasball-org](https://github.com/andrewjourdan/cleopatrasball-org) |
+| [doctorunknown.com](https://doctorunknown.com/) | [doctorunknown](https://github.com/andrewjourdan/doctorunknown) |
+| [kayakcartel.com](https://kayakcartel.com/) | [kayakcartel](https://github.com/andrewjourdan/kayakcartel) |
+| [muckorganics.com](https://muckorganics.com/) | [muckorganics](https://github.com/andrewjourdan/muckorganics) |
+| [ntisales.com](https://ntisales.com/) | [ntisales](https://github.com/andrewjourdan/ntisales) |
+
 ## What the owner needs to know
 
 The website runs on GitHub Pages. You do not need to run commands to keep it online.
