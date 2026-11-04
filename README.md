@@ -13,6 +13,15 @@ My focus includes consumer electronics, memory, storage, and imaging technology.
 - [LinkedIn — Andrew Nahmias](https://www.linkedin.com/in/andrewnahmias/)
 - [Instagram — @andrewjourdan](https://www.instagram.com/andrewjourdan/)
 
+## What the owner needs to know
+
+The website runs on GitHub Pages. You do not need to run commands to keep it online.
+The preview and validation commands are for whoever makes website changes.
+
+- Keep the domain registration renewed and account recovery details current.
+- After changes, review the live site on a phone and computer and report broken links or missing inquiries promptly.
+- Contact links open the visitor's email app. Test that an inquiry reaches andrew@andrewjourdan.com.
+
 ---
 
 This repository also contains my website. See the
