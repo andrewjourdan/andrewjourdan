@@ -2,7 +2,7 @@
 
 **AJ Style and Tech.**
 
-Andrew Jourdan is an independent sales and marketing representative specializing in
+Andrew Jourdan is a Brand Champion sales and marketing representative specializing in
 consumer electronics, memory, storage, and imaging technology across U.S. and
 Canadian retail channels.
 
