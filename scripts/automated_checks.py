@@ -87,6 +87,10 @@ def check_robots():
 
 if __name__ == "__main__":
     print("Running static-site automated checks…")
+    if (ROOT / "CNAME").read_text(encoding="utf-8").strip() != "andrewjourdan.com":
+        fail("CNAME must match the canonical domain andrewjourdan.com")
+    if (ROOT / "docs/CNAME").exists():
+        fail("Remove the unused docs/CNAME; Pages publishes from the repository root")
     check_html(); check_sitemap(); check_robots()
     if errors:
         print(f"\\n{len(errors)} check(s) failed.")
