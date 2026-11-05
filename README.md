@@ -1,4 +1,4 @@
-# Andrew Jourdan
+# Andrew Nahmias
 
 **Brand Champion · AJ Style and Tech.**
 
