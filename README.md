@@ -2,9 +2,7 @@
 
 **Brand Champion · AJ Style and Tech.**
 
-I help technology brands grow across U.S. and Canadian retail channels through
-sales and marketing representation, channel development, and retail relationships.
-My focus includes consumer electronics, memory, storage, and imaging technology.
+All or Nothing.
 
 ## Connect
 
