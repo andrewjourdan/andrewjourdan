@@ -21,12 +21,15 @@ class Inspector(HTMLParser):
         self.json_open = False
         self.json_buffer = ""
         self.json_blocks = []
+        self.share_images = []
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if tag == "html": self.lang = a.get("lang") or ""
         if tag == "title": self.title_open = True
         if tag == "meta" and (a.get("name") or "").lower() == "description":
             self.description = a.get("content") or ""
+        if tag == "meta" and (a.get("property") or a.get("name") or "").lower() in ("og:image", "twitter:image"):
+            self.share_images.append(a.get("content") or "")
         if tag == "link" and "canonical" in (a.get("rel") or "").lower().split():
             self.canonical = a.get("href") or ""
         if tag == "script" and a.get("type") == "application/ld+json":
@@ -62,6 +65,10 @@ def check_html():
     elif len(page.description) > 320: fail("meta description exceeds 320 characters")
     if page.canonical != BASE + "/": fail(f"canonical URL should be {BASE}/")
     if not page.json_blocks: fail("JSON-LD structured data is missing")
+    if not page.share_images: fail("og:image / twitter:image metadata is missing")
+    for url in page.share_images:
+        if url.startswith(BASE + "/") and not (ROOT / url[len(BASE) + 1:]).is_file():
+            fail(f"share image {url} points to a file that is not in the repository")
     for i, block in enumerate(page.json_blocks, 1):
         try: json.loads(block)
         except json.JSONDecodeError as exc: fail(f"JSON-LD block {i} is invalid: {exc}")
@@ -95,4 +102,4 @@ if __name__ == "__main__":
     if errors:
         print(f"\\n{len(errors)} check(s) failed.")
         sys.exit(1)
-    print("PASS: HTML SEO metadata, JSON-LD syntax, sitemap XML, and robots.txt sitemap reference.")
+    print("PASS: HTML SEO metadata, share image, JSON-LD syntax, sitemap XML, and robots.txt sitemap reference.")
