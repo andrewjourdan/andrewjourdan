@@ -21,8 +21,7 @@ required. Keep the root `CNAME` as the single publishing-domain file; the automa
 checks reject an additional `docs/CNAME`.
 
 The website's contact links open the visitor's email app. This repository does not
-contain a contact-form submission backend. The separate NTI Sales form and its
-Cloudflare Worker are maintained in `andrewjourdan/ntisales`.
+contain a contact-form submission backend.
 
 ## Local preview
 
