@@ -96,6 +96,7 @@ All or Nothing.
 | [kayakcartel.com](https://kayakcartel.com/) | [kayakcartel](https://github.com/andrewjourdan/kayakcartel) |
 | [muckorganics.com](https://muckorganics.com/) | [muckorganics](https://github.com/andrewjourdan/muckorganics) |
 | [ntisales.com](https://ntisales.com/) | [ntisales](https://github.com/andrewjourdan/ntisales) |
+| [superintelligencenda.com](https://superintelligencenda.com/) | [superintelligencenda](https://github.com/andrewjourdan/superintelligencenda) |
 | [vatigen.com](https://vatigen.com/) | [vatigen](https://github.com/andrewjourdan/vatigen) |
 
 ## What the owner needs to know
