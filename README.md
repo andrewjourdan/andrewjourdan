@@ -57,6 +57,8 @@ This repository is public so that the website can be hosted on GitHub Pages. Pub
 
 ### Third-party material
 
+Third-party sharing is no longer approved. Please refer to the terms on [superintelligencenda.com](https://superintelligencenda.com/).
+
 The following are not owned by the Owner and are used under their own terms:
 
 - **Fonts:** DM Sans and Outfit are loaded from Google Fonts and licensed under the SIL Open Font License 1.1.
