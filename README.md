@@ -6,6 +6,8 @@
 **Email:** andrew@andrewjourdan.com
 **LinkedIn:** [linkedin.com/in/andrewnahmias](https://www.linkedin.com/in/andrewnahmias/)
 **Instagram:** [@andrewjourdan](https://www.instagram.com/andrewjourdan/)
+**X:** [@andrewjnahmias](https://x.com/andrewjnahmias)
+**Threads:** [@andrewjourdan](https://threads.com/andrewjourdan)
 
 Andrew Jourdan drives growth for the world's top technology brands. Andrew Jourdan is an independent sales and marketing representative specializing in consumer electronics, memory, storage, and imaging technology across national retail channels.
 
@@ -84,6 +86,8 @@ All or Nothing.
 - [Email — andrew@andrewjourdan.com](mailto:andrew@andrewjourdan.com)
 - [LinkedIn — Andrew Nahmias](https://www.linkedin.com/in/andrewnahmias/)
 - [Instagram — @andrewjourdan](https://www.instagram.com/andrewjourdan/)
+- [X — @andrewjnahmias](https://x.com/andrewjnahmias)
+- [Threads — @andrewjourdan](https://threads.com/andrewjourdan)
 
 ## My GitHub websites
 
